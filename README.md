@@ -1,11 +1,9 @@
 
-# [react-twitter-clone](https://github-twitter-41292.firebaseapp.com/#/)
+
 ---
 ## Description
 
 Twitter clone app with social github login authentication using react, webpack, jsx syntax and firebase as a service.
-
-![Screenshot](https://i.imgur.com/tsmEkud.png)
 
 ---
 ## Installation
